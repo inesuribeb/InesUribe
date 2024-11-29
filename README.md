@@ -6,7 +6,7 @@
 Este portfolio está actualmente en desarrollo. A medida que continúo trabajando en nuevos proyectos y habilidades, iré actualizando y mejorando el contenido para reflejar mis logros más recientes.
 
 ## Características ✨
-- **Fotografía**: Galería de mis mejores fotos, organizada por categorías.
+- **Fotografía**: Selección de mis fotos favoritas.
 - **Diseño**: Muestra mis trabajos de diseño gráfico, branding y otros proyectos visuales.
 - **Programación Web**: Proyectos web donde aplico mis conocimientos de desarrollo **front-end** usando **HTML**, **CSS** y **JavaScript**, y en el **back-end** con **Node.js**, **Express.js** y **MySQL**.
 - **Responsive**: El diseño es completamente adaptable a diferentes tamaños de pantalla para asegurar una experiencia óptima en dispositivos móviles, tabletas y escritorios.
