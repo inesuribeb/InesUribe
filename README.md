@@ -1,4 +1,4 @@
-# InesUribe Portfolio 📸🎨💻
+# InesUribe Portfolio 📸📐🖥️🧑‍🎨👩‍💻💡
 
 **InesUribe** es un portfolio personal que muestra todos mis trabajos de **fotografía**, **diseño** y **programación web**. En este proyecto, presento una combinación de mis habilidades en estas áreas, destacando proyectos visuales y técnicos desarrollados con **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express.js** y **MySql**.
 
