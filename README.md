@@ -24,12 +24,12 @@ Para ver el proyecto en tu entorno local:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/inesuribeb/InesUribe.git
-Navega al directorio del proyecto:
-
-bash
-Copiar código
+   
+2. Navega al directorio del proyecto:
+   ```bash
 cd InesUribe
-Abre el archivo index.html en tu navegador para ver el portfolio en acción.
+
+3.Abre el archivo index.html en tu navegador para ver el portfolio en acción.
 
 
 ## Autor ✨
