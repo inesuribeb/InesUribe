@@ -1,5 +1,7 @@
 # InesUribe Portfolio 📸📐🖥️🧑‍🎨👩‍💻💡
 
+## Español
+
 **InesUribe** es un portfolio personal que muestra todos mis trabajos de **fotografía**, **diseño** y **programación web**. En este proyecto, presento una combinación de mis habilidades en estas áreas, destacando proyectos visuales y técnicos desarrollados con **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express.js** y **MySql**.
 
 ## 🚧 En desarrollo
@@ -39,9 +41,11 @@ Para ver el proyecto en tu entorno local:
 ## Autor ✨
 Creado por Ines Uribe. Sígueme en GitHub para más proyectos y actualizaciones.
 
-
+---
 
 # InesUribe Portfolio 📸📐🖥️🧑‍🎨👩‍💻💡
+
+## English
 
 **InesUribe** is a personal portfolio showcasing all my work in **photography**, **design**, and **web development**. In this project, I present a combination of my skills in these areas, highlighting visual and technical projects developed with **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express.js**, and **MySQL**.
 
