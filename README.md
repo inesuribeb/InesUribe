@@ -17,6 +17,10 @@ Este portfolio está actualmente en desarrollo. A medida que continúo trabajand
 - **JavaScript**: Interactividad y funcionalidades dinámicas.
 - **React**: Biblioteca para construir interfaces de usuario interactivas y reutilizables.
 
+## Ver el Portfolio Online 🌐
+Puedes ver el portfolio en vivo en el siguiente enlace:  
+[https://inesuribeb.github.io/InesUribe/](https://inesuribeb.github.io/InesUribe/)
+
 ## Instalación 🚀
 
 Para ver el proyecto en tu entorno local:
@@ -29,7 +33,7 @@ Para ver el proyecto en tu entorno local:
    ```bash
    cd InesUribe
 
-3.Abre el archivo index.html en tu navegador para ver el portfolio en acción.
+3. Abre el archivo index.html en tu navegador para ver el portfolio en acción.
 
 
 ## Autor ✨
