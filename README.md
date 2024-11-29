@@ -27,7 +27,7 @@ Para ver el proyecto en tu entorno local:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/inesuribeb/InesUribe.git
+   git clone git@github.com:inesuribeb/InesUribe.git
    
 2. Navega al directorio del proyecto:
    ```bash
