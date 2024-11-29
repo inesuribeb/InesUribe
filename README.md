@@ -38,3 +38,46 @@ Para ver el proyecto en tu entorno local:
 
 ## Autor ✨
 Creado por Ines Uribe. Sígueme en GitHub para más proyectos y actualizaciones.
+
+
+
+# InesUribe Portfolio 📸📐🖥️🧑‍🎨👩‍💻💡
+
+**InesUribe** is a personal portfolio showcasing all my work in **photography**, **design**, and **web development**. In this project, I present a combination of my skills in these areas, highlighting visual and technical projects developed with **HTML**, **CSS**, **JavaScript**, **Node.js**, **Express.js**, and **MySQL**.
+
+## 🚧 In Development
+This portfolio is currently in development. As I continue working on new projects and skills, I will update and improve the content to reflect my latest achievements.
+
+## Features ✨
+- **Photography**: A selection of my favorite photos.
+- **Design**: Showcasing my graphic design, branding, and other visual projects.
+- **Web Development**: Web projects where I apply my front-end development skills using **HTML**, **CSS**, and **JavaScript**, and back-end skills with **Node.js**, **Express.js**, and **MySQL**.
+- **Responsive**: The design is fully adaptable to different screen sizes to ensure an optimal experience on mobile devices, tablets, and desktops.
+
+## Technologies Used 💻
+- **HTML5**: Basic structure of the website.
+- **CSS3**: Styling and responsive design.
+- **JavaScript**: Interactivity and dynamic functionalities.
+- **React**: Library for building interactive and reusable user interfaces.
+
+## View the Portfolio Online 🌐
+You can view the live portfolio at the following link:  
+[https://inesuribeb.github.io/InesUribe/](https://inesuribeb.github.io/InesUribe/)
+
+## Installation 🚀
+
+To view the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:inesuribeb/InesUribe.git
+
+2. Navigate to the project directory:
+   ```bash
+   cd InesUribe
+
+3. Open the index.html file in your browser to see the portfolio in action.
+
+## Author ✨
+Created by Ines Uribe. Follow me on GitHub for more projects and updates.
+
