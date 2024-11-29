@@ -27,7 +27,7 @@ Para ver el proyecto en tu entorno local:
    
 2. Navega al directorio del proyecto:
    ```bash
-cd InesUribe
+   cd InesUribe
 
 3.Abre el archivo index.html en tu navegador para ver el portfolio en acción.
 
